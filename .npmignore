@@ -1,0 +1,8 @@
+/node_modules
+/src
+/cert
+/tsconfig.json
+/npm-debug
+/yarn.lock
+/settings
+/.env
